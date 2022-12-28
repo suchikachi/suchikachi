@@ -1,11 +1,11 @@
 ## good afternoon
 
 ### who am i
-- student
+- student (🇦🇲 ⇆ 🇬🇧)
 
 ### currently working on
-- not failing school
-- learning how all this works
+- school
+- learning c# and *advanced* python
 
 ### studying...?
 - computer science + music technology
