@@ -8,7 +8,7 @@
 - learning c# and *advanced* python
 
 ### studying...?
-- computer science + music technology
+- computer science + philosophy
 
 ### talk to me
 - kachi❀#6593
@@ -20,5 +20,5 @@
 - probably not
 
 ## cool stats
-![richard's github stats](https://github-readme-stats.vercel.app/api?username=suchikachi&show_icons=true&theme=tokyonight)  
-![richard's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suchikachi&layout=compact&theme=tokyonight)
+![github stats](https://github-readme-stats.vercel.app/api?username=suchikachi&show_icons=true&theme=tokyonight)  
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suchikachi&layout=compact&theme=tokyonight)
