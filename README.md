@@ -1,7 +1,7 @@
 ## good afternoon!
 
 ### who am I
-- Student (🇦🇲 ⇆ 🇬🇧)
+- Student
 
 ### currently working on?
 - school
@@ -11,7 +11,7 @@
 - computer science + philosophy
 
 ### talk to me on discord!
-- kachi❀#6593
+- kachi❀#6593 (i'll be back to change this after they remove the discriminators)
 
 ### who drew my profile picture?
 - the homie daisy on discord
