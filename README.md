@@ -4,8 +4,7 @@
 - Student
 
 ### currently working on?
-- school
-- python speech to text using WhisperAI
+- pandas and ml in python :)
 
 ### studying...?
 - computer science + philosophy
