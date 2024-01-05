@@ -1,16 +1,10 @@
 ## good afternoon!
 
 ### who am I
-- Student
+- Richard
 
-### currently working on?
-- pandas and ml in python :)
-
-### studying...?
-- computer science + philosophy
-
-### talk to me on discord!
-- kachi❀#6593 (i'll be back to change this after they remove the discriminators)
+### hello Richard
+- hello!!
 
 ### who drew my profile picture?
 - the homie daisy on discord
