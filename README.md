@@ -1,16 +1,4 @@
-## good afternoon!
-
-### who am I
-- Richard
-
-### hello Richard
-- hello!!
-
-### who drew my profile picture?
-- the homie daisy on discord
-
-### "can she draw my profile picture?"
-- probably not
+## I use this for school assignments, nothing cool here just yet
 
 ## cool profile stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=suchikachi&show_icons=true&theme=tokyonight)  
